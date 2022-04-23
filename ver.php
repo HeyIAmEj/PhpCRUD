@@ -214,7 +214,6 @@
                                  role="alert">
                             </div>
                         </div>
-                        <p>lembrar que no get requests dos parametros os nomes mudaram </p>
                     </form>
                 </div>
 
