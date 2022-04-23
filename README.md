@@ -1,19 +1,19 @@
 # PhpCRUD
 ## Este projeto é um CRUD simples feito em PHP.
 ### Página Inicial
-<img src="https://hermes.digitalinnovation.one/courses/badge/f052cd75-9758-4df2-a592-f2600276c05c.png" alt="Spread Java Developer DIO Badge" height="200" width="200" />
+<img src="https://github.com/HeyIAmEj/PhpCRUD/blob/master/img/index.jpg" alt="Página Inicial"  />
 <br>
 
 ### Criação
-<img src="https://hermes.digitalinnovation.one/courses/badge/f052cd75-9758-4df2-a592-f2600276c05c.png" alt="Spread Java Developer DIO Badge" height="200" width="200" />
+<img src="https://github.com/HeyIAmEj/PhpCRUD/blob/master/img/criar.jpg" alt="Criação" />
 <br>
 
 ### Leitura
-<img src="https://hermes.digitalinnovation.one/courses/badge/f052cd75-9758-4df2-a592-f2600276c05c.png" alt="Spread Java Developer DIO Badge" height="200" width="200" />
+<img src="https://github.com/HeyIAmEj/PhpCRUD/blob/master/img/ver.jpg" alt="Leitura" />
 <br>
 
 ### Alteração
-<img src="https://hermes.digitalinnovation.one/courses/badge/f052cd75-9758-4df2-a592-f2600276c05c.png" alt="Spread Java Developer DIO Badge" height="200" width="200" />
+<img src="https://github.com/HeyIAmEj/PhpCRUD/blob/master/img/alterar.jpg" alt="Alteração" />
 <br>
 
 - Tecnologias utilizadas:
